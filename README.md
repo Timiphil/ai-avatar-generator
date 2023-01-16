@@ -49,6 +49,10 @@ I intend to learn more on prompt engineering, how AI works and improve this appl
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+***
+## License
+
+This project is licensed under the [MIT](https://github.com/Timiphil/ai-avatar-generator/commit/c3d50e84a5fe1f3e8922c0f0ef3c9a13aee47ed6)
 
 ***
 ## Labels
